@@ -4,4 +4,4 @@ class Spiderman {
     }
 }
 
-module.export = Spiderman
+module.exports = Spiderman
